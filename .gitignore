@@ -1,0 +1,41 @@
+# Ignore compiled Python files
+*.pyc
+
+# Ignore the virtual environment directory
+venv/
+
+# Ignore the Django migrations directory
+**/migrations/
+
+# Ignore local development settings
+**/settings_local.py
+
+# Ignore SQLite database file
+*.sqlite3
+
+# Ignore macOS system files
+.DS_Store
+
+# Ignore IDE and editor specific files
+.vscode/
+.idea/
+
+# Ignore log files
+*.log
+
+# Ignore user-specific files
+*.swp
+*~
+
+# Ignore environment-specific files
+.env
+
+# Ignore pipenv or poetry lock files
+Pipfile.lock
+poetry.lock
+
+# Ignore static files collected during development
+/staticfiles/
+
+# Ignore media files uploaded during development
+/media/
