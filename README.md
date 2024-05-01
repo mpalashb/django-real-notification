@@ -14,7 +14,7 @@ This Django application enables real-time notifications to users through Django 
 1. **Clone the Repository:**
 
    ```bash
-   git clone [https://github.com/mpalashb/django-real-notification.git](https://github.com/mpalashb/django-real-notification.git)
+   git clone https://github.com/mpalashb/django-real-notification.git
    ```
 
 2. **Install Dependencies:**
