@@ -1,4 +1,4 @@
-# Real-Time Django Notifications with Channels
+# Real-Time Django Notifications with Channels for multiple users
 
 This Django application enables real-time notifications to users through Django Channels, offering an instant notification experience without page refreshes. It leverages Django 5 and Channels 3.0.5.
 
