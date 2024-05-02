@@ -4,8 +4,6 @@
 # Ignore the virtual environment directory
 venv/
 
-# Ignore the Django migrations directory
-**/migrations/
 
 # Ignore local development settings
 **/settings_local.py
